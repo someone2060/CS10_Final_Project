@@ -1,0 +1,1 @@
+These are images that were an attempt of making sprites that aren't box like. They aren't used in the final project.
